@@ -1,5 +1,5 @@
 Rhino Brandon
-Octopus Dakotas
+Octopus Dakota
 Robin George
 Shark Daniel
 Snake Daniel
@@ -7,3 +7,6 @@ Hamster Daniel
 Owl Daniel
 Komodo Dragon Dakota
 Hawk Dakota
+Barracuda Brandon
+Iguana Brandon
+Raven Brandon
